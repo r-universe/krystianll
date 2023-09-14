@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/krystianll/krystianll.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "mlemur"]
 	path = mlemur
 	url = https://github.com/krystianll/mlemur
-	shallow = true
-	registered = true
